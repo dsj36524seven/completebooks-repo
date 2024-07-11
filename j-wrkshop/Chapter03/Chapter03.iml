@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Activity01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Activity02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example01" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example05" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example06" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example07" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example08" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example09" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example15" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Example18" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Exercise01" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="8ec2e9c1-b0fe-4926-a5d3-47855aa77fb0" />
+  </component>
+</module>

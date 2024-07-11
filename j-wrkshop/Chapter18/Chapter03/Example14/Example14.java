@@ -1,0 +1,25 @@
+class Computer14 {
+    @Deprecated
+    public void whatIsIt() {
+        System.out.println( "it is a PC");
+    }
+
+    public void getDeviceType() {
+        System.out.println( "it is a PC");
+    }
+}
+
+@SuppressWarnings("deprecation")
+class Tablet14 extends Computer14 {
+    @Override
+    public void whatIsIt() {
+        System.out.println( "it is a tablet");
+    }
+}
+
+class Example14 {
+    public static void main(String[] args) {
+        Tablet14 myTab = new Tablet14();
+        myTab.whatIsIt();
+    }
+}
